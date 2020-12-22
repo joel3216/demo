@@ -1,3 +1,3 @@
 #! /bin/bash
 
-echo "weclome to git"
+echo "weclome to git, Joel"
